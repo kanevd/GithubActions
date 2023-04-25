@@ -1,4 +1,4 @@
-name: hello-world again
+name: hello-world random
 'on': push
 jobs:
   my-job:
